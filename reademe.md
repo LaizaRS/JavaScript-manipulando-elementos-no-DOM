@@ -1,0 +1,2 @@
+Você pode assistir as aulas do projeto através[DESSE LINK](https://cursos.alura.com.br/course/javascript-manipulando-elementos-dom)
+Voce pode acessar o projeto do figma através [desse link](https://www.figma.com/community/file/1412824641884998254)
